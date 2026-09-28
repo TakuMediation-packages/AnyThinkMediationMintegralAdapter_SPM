@@ -17,7 +17,7 @@ The Taku (AnyThink) Mintegral mediation adapter for iOS, distributed via Swift P
    ```
    https://github.com/TakuMediation-packages/AnyThinkMediationMintegralAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `8.1.6-2.0`).
+3. Select **Exact Version** and enter the target version (e.g. `80106.2.0`).
 4. Add the `AnyThinkMediationMintegralAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The Taku (AnyThink) Mintegral mediation adapter for iOS, distributed via Swift P
 dependencies: [
     .package(
         url: "https://github.com/TakuMediation-packages/AnyThinkMediationMintegralAdapter_SPM.git",
-        exact: "8.1.6-2.0"
+        exact: "80106.2.0"
     )
 ]
 ```
