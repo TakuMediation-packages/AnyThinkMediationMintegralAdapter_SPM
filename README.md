@@ -6,7 +6,7 @@ The Taku (AnyThink) Mintegral mediation adapter for iOS, distributed via Swift P
 
 - iOS 12.0+
 - Xcode 15.0+
-- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.0+
+- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.60+
 
 ## Installation
 
@@ -34,7 +34,7 @@ dependencies: [
 
 ## Included dependencies
 
-- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.0)
+- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.60)
 - [`MintegralAdSDK`](https://github.com/Mintegral-official/MintegralAdSDK-Swift-Package) (pinned to the version certified for this adapter release)
 
 ## More information
